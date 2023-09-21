@@ -1,2 +1,2 @@
-# my-foss-repo
+# My FOSS Repo
 My FOSS reference hub
